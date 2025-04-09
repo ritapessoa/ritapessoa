@@ -1,7 +1,7 @@
 
 # Rita Pessoa ✨
 
-👋 Olá, meu nome é Rita de Cássia. Sou graduada em Análise e Desenvolvimento de Sistemas (ADS) e estou expandindo meus conhecimentos para atuar como desenvolvedora júnior.
+👋 Olá, meu nome é Rita de Cássia
 
 # Redes
 
