@@ -1,5 +1,5 @@
 
-# Rita Rosa ✨
+# Rita Pessoa ✨
 
 👋 Olá, meu nome é Rita de Cássia
 
