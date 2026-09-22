@@ -1,7 +1,7 @@
 
-# Rita Pessoa ✨
+# Rita Pessoa 
 
-👋 Olá! Eu sou a Rita de Cássia 😊 Desenvolvedora de software com foco em .NET e Vue.js.
+👋 Olá! Eu sou a Rita de Cássia, desenvolvedora de software com foco em .NET e Vue.js.
 
 
 ## Stack
