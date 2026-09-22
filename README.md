@@ -1,7 +1,7 @@
 
 # Rita Pessoa ✨
 
-👋 Olá, meu nome é Rita de Cássia
+👋 Olá! Eu sou a Rita de Cássia 😊 Desenvolvedora de software com foco em .NET e Vue.js.
 
 
 ## Stack
@@ -15,7 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-# Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rita-pessoa-rosa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ritapessoa.github.io)
